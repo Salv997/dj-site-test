@@ -71,7 +71,7 @@ nav .right .social svg{
 .header{
     width: 100%;
     height: 100vh;
-    background-image: url(/imgs/landing-background.jpg);
+    background-image: url(imgs/landing-background.jpg);
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
@@ -286,7 +286,7 @@ nav .right .social svg{
 .album{
     width: 100%;
     height: 100vh;
-    background-image: url(/imgs/album.jpg);
+    background-image: url(imgs/album.jpg);
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
